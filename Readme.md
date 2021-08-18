@@ -6,7 +6,7 @@
 # Bind a Scheduler to MS SQL Database at Design Time
 
 
-To learn more see the <a href="https://documentation.devexpress.com/WindowsForms/2949/Controls-and-Libraries/Scheduler/Getting-Started">Getting Started</a> article.
+To learn more see the <a href="https://docs.devexpress.com/WindowsForms/2949/controls-and-libraries/scheduler/getting-started">Getting Started</a> article.
 
 <br/>
 
