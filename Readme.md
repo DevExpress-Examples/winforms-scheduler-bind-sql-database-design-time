@@ -6,9 +6,9 @@
 
 # WinForms Scheduler - Bind to MS SQL database at design time
 
-In this example, the Winforms Scheduler control is configured at design time to display appointments for a MS SQL database. Read the following help topic for additional information and instructions: [Getting Started - WinForms Scheduler](https://docs.devexpress.com/WindowsForms/2949/controls-and-libraries/scheduler/getting-started).
+In this example, the Winforms Scheduler control is configured at design time to display appointments for a Microsoft SQL database. Read the following help topic for additional information and instructions: [Getting Started - WinForms Scheduler](https://docs.devexpress.com/WindowsForms/2949/controls-and-libraries/scheduler/getting-started).
 
-The WinForms Scheduler control supports all major data sources. It ships with the Scheduler Data Storage component that supports Visual Studio .NET data objects and can be bound to XML data or any data object implementing the IList, IBindingList, and ITypedList interfaces. With its integrated Data Source Configuration Wizard you'll retrieve appointments including resources, statuses, and labels without a single line of code.
+The WinForms Scheduler control supports all major data sources. It ships with the Scheduler Data Storage component that supports Visual Studio .NET data objects and can be bound to XML data or any data object implementing the IList, IBindingList, and ITypedList interfaces. With its integrated Data Source Configuration Wizard, you'll retrieve appointments including resources, statuses, and labels without writing a single line of code.
 
 
 ## Files to Review
