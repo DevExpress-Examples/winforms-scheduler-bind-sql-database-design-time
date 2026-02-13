@@ -24,7 +24,7 @@ The WinForms Scheduler control supports all major data sources. It ships with th
 * [Data Binding Overview - WinForms Scheduler](https://docs.devexpress.com/WindowsForms/8386/controls-and-libraries/scheduler/data-binding)
 * [Create a Sample SQL Database for Scheduler Appointments and Resources](https://docs.devexpress.com/WindowsForms/9605/controls-and-libraries/scheduler/data-binding/data-sources/microsoft-sql-server)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-bind-sql-database-design-time&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-bind-sql-database-design-time&~~~was_helpful=no)
 
